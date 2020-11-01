@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class CalcAfection {
 
-	//afection kalkulatzeko
+
 	public double calculateSympomsAfection(Covid19Pacient covid19Pacient) {
 		// TODO Auto-generated method stub
 		double afection=0;
